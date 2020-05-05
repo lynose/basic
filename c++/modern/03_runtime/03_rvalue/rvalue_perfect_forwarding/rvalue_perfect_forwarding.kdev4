@@ -1,0 +1,3 @@
+[Project]
+Name=rvalue_perfect_forwarding
+Manager=KDevCMakeManager
